@@ -40,7 +40,6 @@ Technologies and devices used include:
 ### Use Case Diagram
 ![image](https://github.com/IRims/Smart_City/assets/122692816/3a98f762-3d5c-4fb6-8a8f-70eda69795b8)
 ### User Interfaces
-![image](https://github.com/IRims/Smart_City/assets/122692816/d72be0fd-4710-4d9d-a6cc-1a9c5b94ece4)
 ![image](https://github.com/IRims/Smart_City/assets/122692816/82ba8be9-5b5c-44bd-833a-70da5466de0a)
 ![image](https://github.com/IRims/Smart_City/assets/122692816/dff90c33-9e5a-47cd-94bf-927e6a259c0c)
 ![image](https://github.com/IRims/Smart_City/assets/122692816/134aed98-afb0-4edb-b6fd-444d0d40fd6a)
